@@ -1,6 +1,6 @@
 {
   "name": "freelavalink",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get best available free lavalink node",
   "main": "index.js",
   "directories": {
@@ -26,6 +26,7 @@
     "url": "https://github.com/invaliduser231/freelavalink/issues"
   },
   "homepage": "https://github.com/invaliduser231/freelavalink#readme",
+  "readme": "README.md",
   "dependencies": {
     "node-fetch": "^2.6.6"
   }
