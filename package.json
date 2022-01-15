@@ -1,6 +1,6 @@
 {
   "name": "freelavalink",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Get best available free lavalink node",
   "main": "index.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/invaliduser231/freelavalink.git"
+    "url": "git://github.com/invaliduser231/freelavalink.git"
   },
   "keywords": [
     "lavalink",
