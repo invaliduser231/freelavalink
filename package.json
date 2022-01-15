@@ -1,6 +1,6 @@
 {
   "name": "freelavalink",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Get best available free lavalink node",
   "main": "index.js",
   "directories": {

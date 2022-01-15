@@ -5,8 +5,10 @@ This package will choose the most powerfull server from a list and will post the
 ```javascript
 let getnode = require("freelavalink")
 
-let nodes = await getnode()
+let node = await getnode()
 
+
+console.log(node)
 /*
 {
   host: 'hostname',
