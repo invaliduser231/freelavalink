@@ -1,0 +1,32 @@
+{
+  "name": "freelavalink",
+  "version": "1.0.0",
+  "description": "Get best available free lavalink node",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invaliduser231/freelavalink.git"
+  },
+  "keywords": [
+    "lavalink",
+    "free",
+    "node",
+    "freenode",
+    "lavanode"
+  ],
+  "author": "InvalidUser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/invaliduser231/freelavalink/issues"
+  },
+  "homepage": "https://github.com/invaliduser231/freelavalink#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.6"
+  }
+}
